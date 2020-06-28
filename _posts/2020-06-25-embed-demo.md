@@ -13,3 +13,7 @@ Lets test that.
 ...
 
 Okay, So I had to change the include plugin, but now you just need the youtube ID in the id=X part of that include. 
+
+...
+
+And then the last think I did was wrap the youtube include in a div tag. You can look at the sytax but basically you just name the class in the div tag that wraps the whole youtube plugin, which exists in the includes folder. Then I copy pasted some stuff for CSS that made the video resizable based on browser. Looks better now!
