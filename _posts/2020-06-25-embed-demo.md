@@ -9,3 +9,7 @@ Basically from what I can tell, you just have to have the include ready to go in
 {% include youtubePlayer.html id="Q2aaCDNjWEg" %}
 
 Lets test that.
+
+...
+
+Okay, So I had to change the include plugin, but now you just need the youtube ID in the id=X part of that include. 
